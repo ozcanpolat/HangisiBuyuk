@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HangisiBuyuk\HangisiBuyuk\bin\Debug\netcoreapp3.1\HangisiBuyuk.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HangisiBuyuk\HangisiBuyuk\bin\Debug\netcoreapp3.1\HangisiBuyuk.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HangisiBuyuk\HangisiBuyuk\bin\Debug\netcoreapp3.1\HangisiBuyuk.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HangisiBuyuk\HangisiBuyuk\bin\Debug\netcoreapp3.1\HangisiBuyuk.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HangisiBuyuk\HangisiBuyuk\bin\Debug\netcoreapp3.1\HangisiBuyuk.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HangisiBuyuk\HangisiBuyuk\bin\Debug\netcoreapp3.1\HangisiBuyuk.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HangisiBuyuk\HangisiBuyuk\obj\Debug\netcoreapp3.1\HangisiBuyuk.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HangisiBuyuk\HangisiBuyuk\obj\Debug\netcoreapp3.1\HangisiBuyuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HangisiBuyuk\HangisiBuyuk\obj\Debug\netcoreapp3.1\HangisiBuyuk.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HangisiBuyuk\HangisiBuyuk\obj\Debug\netcoreapp3.1\HangisiBuyuk.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HangisiBuyuk\HangisiBuyuk\obj\Debug\netcoreapp3.1\HangisiBuyuk.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HangisiBuyuk\HangisiBuyuk\obj\Debug\netcoreapp3.1\HangisiBuyuk.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HangisiBuyuk\HangisiBuyuk\obj\Debug\netcoreapp3.1\HangisiBuyuk.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\HangisiBuyuk\HangisiBuyuk\obj\Debug\netcoreapp3.1\HangisiBuyuk.genruntimeconfig.cache
